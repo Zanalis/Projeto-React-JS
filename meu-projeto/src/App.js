@@ -1,14 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
+import Pessoa from './components/Pessoa';
 
 function App() {
 
-  const name = 'Zanalis'
 
   return (
     <div className="App">
-      <h1> OLÁ MUNDO!!</h1>
-      <p> Olá, {{ name }}</p>
+      <Pessoa 
+        nome      = "Zanalis"
+        idade     = "26"
+        profissao = "Programador"
+        foto      ="https://via.placeholder.com/150"
+        />
     </div>
   );
 }
