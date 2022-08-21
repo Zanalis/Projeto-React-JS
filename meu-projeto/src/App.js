@@ -1,16 +1,20 @@
-import logo from './logo.svg';
+import {useState} from 'react'
 import './App.css';
-import Evento from './components/Evento';
+import SeuNome from './components/SeuNome';
+
 
 function App() {
 
+const [nome, setNome] = useState()
 
   return (
     <div className="App">   
-    <h1>Testando Eventos</h1>
-    <Evento />
-    </div>
-  );
+    <h1>State Lift</h1>
+    <SeuNome setNome={setNome} />
+    {nome}
+    </div> 
+
+  )
 }
 
 export default App;
