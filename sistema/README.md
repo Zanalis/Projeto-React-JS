@@ -1,3 +1,21 @@
+# CRIAR UM NOVO PROJETO
+# instalar node e npm
+# //--- comando
+# npm install
+#
+# //------ criar projeto na pasta e dentro do terminal o campo:
+# npx create-react-app sistema
+
+# //----- startar servidor
+# npm start
+
+# //--- instalar o json-server
+# npm install json-server
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
