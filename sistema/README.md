@@ -1,19 +1,19 @@
-# CRIAR UM NOVO PROJETO
-# instalar node e npm
-# //--- comando
-# npm install
-#
-# //------ criar projeto na pasta e dentro do terminal o campo:
-# npx create-react-app sistema
+ CRIAR UM NOVO PROJETO
+ instalar node e npm
+ //--- comando
+ npm install
 
-# //----- startar servidor
-# npm start
+ //------ criar projeto na pasta e dentro do terminal o campo:
+ npx create-react-app sistema
 
-# //--- instalar o json-server
-# npm install json-server
+ //----- startar servidor
+ npm start
 
-# //---- bibliotecas importantes
-# npm install react-icons react-router-dom uuid
+ //--- instalar o json-server
+ npm install json-server
+
+ //---- bibliotecas importantes
+ npm install react-icons react-router-dom uuid
 
 
 
