@@ -12,6 +12,9 @@
 # //--- instalar o json-server
 # npm install json-server
 
+# //---- bibliotecas importantes
+# npm install react-icons react-router-dom uuid
+
 
 
 
